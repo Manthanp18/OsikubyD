@@ -1,0 +1,38 @@
+
+#mar {
+    margin-top: 4%;
+}
+
+#down {
+    margin-top: 6%;
+}
+
+#hack {
+    margin-top: 10%;
+}
+
+#but {
+    margin-top: 8%;
+}
+
+#dell {
+    margin-top: 10%;
+    color: white;
+    font-weight: bolder;
+    background-color: gray;
+}
+
+#error {
+    font-weight: bolder;
+    font-size: 15px;
+    color: grey;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#passcode {
+    color: black;
+}
+
+#emb {
+    margin-top: 3%;
+}

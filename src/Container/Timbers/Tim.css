@@ -1,0 +1,45 @@
+#firm {
+    text-align: center;
+    background-color: white;
+    padding: 0;
+    font-size: 30px;
+    margin-top: 10%;
+    font-family: sans-serif;
+}
+
+#amp {
+    text-align: center;
+    font-size: medium;
+    margin-top: 1%;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+#colony {
+    font-family: sans-serif;
+    color: black;
+    margin-top: 4%;
+    background-color: #E0E0E0;
+    padding: 8px;
+}
+
+#pname {
+    text-align: left;
+    font-size: large;
+    color: black;
+    font-weight: bolder;
+}
+
+#mobile {
+    font-family: sans-serif;
+    text-decoration: underline;
+    font-style: italic;
+    font-size: 21px;
+    font-weight: 300;
+    color: black;
+}
+
+#make {
+    margin-top: 1%;
+}

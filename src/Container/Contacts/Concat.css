@@ -1,0 +1,23 @@
+#pname {
+    text-align: left;
+    font-size: large;
+    color: black;
+    font-weight: bolder;
+}
+
+#marktic {
+    margin-top: 5%;
+}
+
+#ahme {
+    text-align: left;
+    font-size: medium;
+    font-style: italic;
+    font-weight: 300;
+}
+
+@media screen and (max-width: 600px) {
+    #ahme {
+      font-size: small;
+    }
+  }
